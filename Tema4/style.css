@@ -1,0 +1,55 @@
+.center{
+    margin-left: 300px;
+    margin: 8px;
+    width: 50%;
+}
+
+.Welcome{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.box{
+    width: 200px;
+    border-radius: 20px;
+    height: 30px;
+}
+
+.Google{
+    background-color: red;
+    color: white;
+    border-style: hidden;
+}
+.Facebook{
+    background-color: rgb(36, 36, 118);
+    color: white;
+    border-style: hidden;
+}
+
+.Login{
+    background-color: rgb(79, 79, 235);
+    color: white;
+    border-style: hidden;
+}
+
+.forget{
+    color: blue;
+    background-color: white;
+    border-style: hidden;
+    padding-left: 45px;
+    padding-top: 20px;
+}
+
+.create{
+    color: blue;
+    background-color: white;
+    border-style: hidden;
+    padding-left: 42px;
+
+}
+
+
+.hr{
+    width: 200px;
+}
